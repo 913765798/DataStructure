@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kerenyonghu/Documents/c++/ds/LinerList/LinerList.h
+
+/Users/kerenyonghu/Documents/c++/ds/LinerList/SqList.h
+LinerList.h
+/Users/kerenyonghu/Documents/c++/ds/LinerList/LinerList.h
+
+/Users/kerenyonghu/Documents/c++/ds/main.cpp
+iostream
+-
+LinerList/SqList.h
+/Users/kerenyonghu/Documents/c++/ds/LinerList/SqList.h
+LinerList/LinerList.h
+/Users/kerenyonghu/Documents/c++/ds/LinerList/LinerList.h
+
